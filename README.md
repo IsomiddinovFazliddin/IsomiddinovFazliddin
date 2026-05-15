@@ -15,7 +15,7 @@
 I am interested in creating user-friendly, fast, and modern web applications using JavaScript, React.js, and Tailwind CSS. I am constantly working on my frontend development and learning new technologies.
 
 * 💻 **Focus:** Building scalable SaaS platforms and E-commerce solutions.
-* 🎓 **Education:** Finalizing my degree at Fergana State Technical University.
+* 🎓 **Education:** 3rd year student at Fergana State Technical University
 * 🎨 **Style:** Minimalist, functional, and user-centric design.
 
 ---
